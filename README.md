@@ -15,7 +15,7 @@ Devre bağlantılarını göstermek amacıyla, MT3608 boost converter uygulama d
 * MT3608, anahtar işleviyle indüktörün dolup boşalmasını sağlayan, geribeslemeyle çıkış gerilimini düzenleyen ana bileşendir.
 * JL AS26BP26280-55F4, 5V ile beslenir, Bluetooth ses sinyal girişini alır.
 
-![KiCad Entegrasyon Şeması](sematik_updated.png)
+![KiCad Entegrasyon Şeması](sematik.png)
 
 ## 3. Projenin Son Hali (Fotoğraflar)
 
